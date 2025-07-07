@@ -10,3 +10,7 @@ Usage: .\sync-branches.ps1 [-Force] [-List] [-Help]
   -List  : List remote branches after sync
   -Help  : Show this message
 ```
+
+## future work:
+
+
